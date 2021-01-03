@@ -6,7 +6,7 @@ configs = {
 		"pct_days_yoga":0.142857, # percent of days that are yoga + abs
 		"pct_days_abs":0.5,
 		"length_of_workouts":45,
-		"include_today":True,
+		"include_today":False,
 		"number_of_excercies_per_workout":6,
 		"include_cardio_in_workouts":1,
 		"include_p90x_upper":True,

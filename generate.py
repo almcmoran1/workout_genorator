@@ -7,6 +7,13 @@ import pdb
 
 
 def set_workouts(inputs):
+	# TO DO:
+	# add favorites
+	# add ability to record notes, time, ect
+	# add p90x workouts
+	# add intensity levels to exercises
+	# add calories to workouts
+	# setup via a database
 	lower_df = pd.DataFrame()
 	upper_df = pd.DataFrame()
 	cardio_df = pd.DataFrame()
@@ -56,7 +63,7 @@ def set_workouts(inputs):
 	min_df['frequency'] = 'As many rounds as possible (AMRAP) - in 30 minutes'
 	final_df.update(min_df)
 	print(final_df)
-	pdb.set_trace()
+	final_df.to_csv('weekly_workout_schedule.csv')
 
 
 # def replace_p90(inputs):
