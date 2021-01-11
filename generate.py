@@ -45,7 +45,7 @@ def set_workouts(inputs):
 			final_dfs.append(upper_df)
 		elif row['workout_type'] == 'cardio':
 			cardio_df = inputs['cardio'].sample(n=sample_exercises)
-			cardio_df = row['date_str']
+			cardio_df['date_str'] = row['date_str']
 			final_dfs.append(cardio_df)
 	final_df = pd.concat(final_dfs)
 	final_df = pd.merge(inputs['workouts'],final_df, how='left', on='date_str')
@@ -89,27 +89,41 @@ def read_in_workouts(inputs):
 	inputs['p90x_upper'] = pd.read_csv('P90x Upper Body.csv')
 	return inputs
 
+def get_day(day, inputs):
+	if not inputs['include_today']:
+		day = day +1	
+	date = datetime.now() + timedelta(days=day)
+	dayofweek = inputs['days_of_week'][date.weekday()]
+	print(day,date.weekday(), dayofweek)
+	return date, dayofweek
+
 def set_days(inputs):
 	workouts = {}
-	day_of_week_dict = {0:"Monday", 1:'Tuesday',2:"Wednesday", 3:"Thursday",4:"Friday",5:"Saturday", 6:"Sunday"}
+	day_of_week_dict = inputs['days_of_week']
 	ab_workouts = round(inputs['pct_days_abs']* inputs['days_to_generate'])
-	for day in range(inputs['days_to_generate']):
-		do_abs = None
-		if not inputs['include_today']:
-			day = day +1	
-		date = datetime.now() + timedelta(days=day)
-		dayofweek = day_of_week_dict[date.weekday()]
-		print(day,date.weekday(), dayofweek)
-		if (day % 2) == 0:
-			workout_type = 'upper'
-			if ab_workouts>0:
-				ab_workouts +-1
-				do_abs = "P90x3 Ab Ripper - 15 mins"
-			else:
-				do_abs = None
+	cardio_workouts = round(inputs['pct_days_cardio']*inputs['days_to_generate'])
+	if inputs['days_to_generate'] ==1:
+		workout_type = inputs['workout_override']
+		if ab_workouts>0:
+			do_abs = True
 		else:
-			workout_type = 'lower'
-		workouts[day] = {'date_str':date.strftime('%m-%d-%Y'), 'day_of_week':dayofweek, 'workout_type':workout_type, 'do_abs':do_abs}
+			do_abs = False
+		date, dayofweek = get_day(0,inputs)
+		workouts[0] = {'date_str':date.strftime('%m-%d-%Y'), 'day_of_week':dayofweek, 'workout_type':workout_type, 'do_abs':do_abs}
+	else:
+		for day in range(inputs['days_to_generate']):
+			do_abs = None
+			date, dayofweek = get_day(day,inputs)
+			if (day % 2) == 0:
+				workout_type = 'upper'
+				if ab_workouts>0:
+					ab_workouts +-1
+					do_abs = "P90x3 Ab Ripper - 15 mins"
+				else:
+					do_abs = None
+			else:
+				workout_type = 'lower'
+			workouts[day] = {'date_str':date.strftime('%m-%d-%Y'), 'day_of_week':dayofweek, 'workout_type':workout_type, 'do_abs':do_abs}
 	print(workouts.keys())
 	inputs['workouts'] = pd.DataFrame.from_dict(workouts, orient='index')
 	print(inputs['workouts'], print(len(workouts)))

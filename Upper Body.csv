@@ -1,12 +1,24 @@
-Excercise,Reps,Calories_burned
-Push ups,25,
-Pull ups,10,
-Pike Press,12,
-in/out bicep curls,16,
-Chair Dips,15,
-Military Pushups,15,
-lie down side tricep rise,15,
-5 second pull up holds,5,
-20 lb Seated back flys,15,
-1 Arm balanced pushups,12,
-20 lb bicep Curl to shoulder press,12,
+Excercise,Reps,Calories_burned,Movement,Primary Muscle,Secondary Muscle
+Push ups,25,,Push,Chest,Bicep
+Pull ups,10,,Pull,Back,Triceps
+Pike Press,12,,Push,Shoulders,Back
+in/out bicep curls,16,,Pull,Bicep,Shoulders
+Chair Dips,15,,Push,Triceps,Chest
+Military Pushups,15,,Push,Chest,Triceps
+Side Tri Rise,15,,Push,Triceps,Chest
+5 second pull up holds,5,,Pull,Back,Bicep
+20 lb Seated back flys,15,,Pull,Back,Shoulders
+1 Arm balanced pushups,12,,Push,Chest,Shoulders
+20 lb bicep Curl to shoulder press,12,,Push & Pull,Shoulders,Bicep
+Wide Fly Pushups,30,,Push,Chest,Triceps
+Slow Pushups,8,,Push,Chest,Triceps
+Prison Cell Push Up,12,,Push,Chest,Triceps
+Dumbell Fly,12,,Push,Chest,Triceps
+Slide Over PushUps,12,,Push,Chest,Triceps
+Slow Mo Throw,10,,Push,Shoulders,Back
+Bent over Row,15,,Pull,Back,Bicep
+Chin Ups,10,,Pull,Back,Bicep
+Narrow Pullups,10,,Pull,Back,Bicep
+Lawnmowers,15,,Pull,Back,Bicep
+25lb Kettle Bell Swings,8,,Push,Shoulders,Forearms
+15lb Kettle Bell Swins,15,,Push,Shoulders,Forearms
