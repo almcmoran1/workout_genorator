@@ -1,49 +1,49 @@
 ,date_str,day_of_week,workout_type,do_abs,Calories_burned,Excercise,Movement,Primary Muscle,Reps,Secondary Muscle,frequency
-0,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,Side Tri Rise,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 30 minutes
-1,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,Chin Ups,Pull,Back,10.0,Bicep,As many rounds as possible (AMRAP) - in 30 minutes
-2,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,20 lb Seated back flys,Pull,Back,15.0,Shoulders,As many rounds as possible (AMRAP) - in 30 minutes
-3,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,Prison Cell Push Up,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-4,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,5 second pull up holds,Pull,Back,5.0,Bicep,As many rounds as possible (AMRAP) - in 30 minutes
-5,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,Pull ups,Pull,Back,10.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-6,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,25lb Kettle Bell Swings,Push,Shoulders,8.0,Forearms,As many rounds as possible (AMRAP) - in 30 minutes
-7,01-11-2021,Monday,upper,P90x3 Ab Ripper - 15 mins,,Slow Mo Throw,Push,Shoulders,10.0,Back,As many rounds as possible (AMRAP) - in 30 minutes
-8,01-12-2021,Tuesday,lower,,,Super skaters,Lunge,,15.0,,As many rounds as possible (AMRAP) - in 45 minutes
-9,01-12-2021,Tuesday,lower,,,Wall Sits,Squat,,60.0,,As many rounds as possible (AMRAP) - in 45 minutes
-10,01-12-2021,Tuesday,lower,,,Medium Box Jumps,Squat and Lunge,Quad,20.0,Calf,As many rounds as possible (AMRAP) - in 45 minutes
-11,01-12-2021,Tuesday,lower,,,Lunges,Lunge,,30.0,,As many rounds as possible (AMRAP) - in 45 minutes
-12,01-12-2021,Tuesday,lower,,,1 legged deadlifts,Deadlift,,15.0,,As many rounds as possible (AMRAP) - in 45 minutes
-13,01-12-2021,Tuesday,lower,,,Wall balls,Squat,,20.0,,As many rounds as possible (AMRAP) - in 45 minutes
-14,01-12-2021,Tuesday,lower,,,Air Squats,Squat,,30.0,,As many rounds as possible (AMRAP) - in 45 minutes
-15,01-12-2021,Tuesday,lower,,,20 lbs Calf Raises,Squat and Lunge,,20.0,,As many rounds as possible (AMRAP) - in 45 minutes
-16,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Push ups,Push,Chest,25.0,Bicep,As many rounds as possible (AMRAP) - in 30 minutes
-17,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,15lb Kettle Bell Swins,Push,Shoulders,15.0,Forearms,As many rounds as possible (AMRAP) - in 30 minutes
-18,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,20 lb bicep Curl to shoulder press,Push & Pull,Shoulders,12.0,Bicep,As many rounds as possible (AMRAP) - in 30 minutes
-19,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Slide Over PushUps,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-20,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Military Pushups,Push,Chest,15.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-21,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Pull ups,Pull,Back,10.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-22,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Wide Fly Pushups,Push,Chest,30.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-23,01-13-2021,Wednesday,upper,P90x3 Ab Ripper - 15 mins,,Pike Press,Push,Shoulders,12.0,Back,As many rounds as possible (AMRAP) - in 30 minutes
-24,01-14-2021,Thursday,lower,,,Mary Katherines,Lunge,,20.0,,As many rounds as possible (AMRAP) - in 45 minutes
-25,01-14-2021,Thursday,lower,,,1 legged deadlifts,Deadlift,,15.0,,As many rounds as possible (AMRAP) - in 45 minutes
-26,01-14-2021,Thursday,lower,,,20 lbs Calf Raises,Squat and Lunge,,20.0,,As many rounds as possible (AMRAP) - in 45 minutes
-27,01-14-2021,Thursday,lower,,,Medium Box Jumps,Squat and Lunge,Quad,20.0,Calf,As many rounds as possible (AMRAP) - in 45 minutes
-28,01-14-2021,Thursday,lower,,,1 legged weighted lunges,Lunge,,15.0,,As many rounds as possible (AMRAP) - in 45 minutes
-29,01-14-2021,Thursday,lower,,,High Box Jumps,Squat and Lunge,Quad,10.0,Calf,As many rounds as possible (AMRAP) - in 45 minutes
-30,01-14-2021,Thursday,lower,,,Lunges,Lunge,,30.0,,As many rounds as possible (AMRAP) - in 45 minutes
-31,01-14-2021,Thursday,lower,,,Wall balls,Squat,,20.0,,As many rounds as possible (AMRAP) - in 45 minutes
-32,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,Side Tri Rise,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 30 minutes
-33,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,20 lb Seated back flys,Pull,Back,15.0,Shoulders,As many rounds as possible (AMRAP) - in 30 minutes
-34,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,Military Pushups,Push,Chest,15.0,Triceps,As many rounds as possible (AMRAP) - in 30 minutes
-35,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,Chair Dips,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 30 minutes
-36,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,25lb Kettle Bell Swings,Push,Shoulders,8.0,Forearms,As many rounds as possible (AMRAP) - in 30 minutes
-37,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,20 lb bicep Curl to shoulder press,Push & Pull,Shoulders,12.0,Bicep,As many rounds as possible (AMRAP) - in 30 minutes
-38,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,in/out bicep curls,Pull,Bicep,16.0,Shoulders,As many rounds as possible (AMRAP) - in 30 minutes
-39,01-15-2021,Friday,upper,P90x3 Ab Ripper - 15 mins,,15lb Kettle Bell Swins,Push,Shoulders,15.0,Forearms,As many rounds as possible (AMRAP) - in 30 minutes
-40,01-16-2021,Saturday,yoga,,,Super skaters,Lunge,,40,,Length of video - 45 mins
-41,01-16-2021,Saturday,yoga,,,Medium Box Jumps,Squat and Lunge,Quad,40,Calf,Length of video - 45 mins
-42,01-16-2021,Saturday,yoga,,,Wall balls,Squat,,40,,Length of video - 45 mins
-43,01-16-2021,Saturday,yoga,,,Wall Sits,Squat,,40,,Length of video - 45 mins
-44,01-16-2021,Saturday,yoga,,,25lb Deadlift,Deadlift,Hamstring,40,,Length of video - 45 mins
-45,01-16-2021,Saturday,yoga,,,Lunges,Lunge,,40,,Length of video - 45 mins
-46,01-16-2021,Saturday,yoga,,,Mary Katherines,Lunge,,40,,Length of video - 45 mins
-47,01-16-2021,Saturday,yoga,,,1 legged weighted lunges,Lunge,,40,,Length of video - 45 mins
+0,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,Wall balls,Squat,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+1,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,25lb Deadlift,Deadlift,Hamstring,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+2,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,Weighted Walking Lunges,Lunge,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+3,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,High Box Jumps,Squat and Lunge,Quad,10.0,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+4,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,Super skaters,Lunge,,15.0,,As many rounds as possible (AMRAP) - in 30 minutes
+5,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,Air Squats,Squat,,30.0,,As many rounds as possible (AMRAP) - in 30 minutes
+6,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,Low Box Jumps,Squat and Lunge,Quad,30.0,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+7,01-11-2021,Monday,lower,P90x3 Ab Ripper - 15 mins,,20 lbs Calf Raises,Squat and Lunge,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+8,01-12-2021,Tuesday,upper,,,Military Pushups,Push,Chest,15.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+9,01-12-2021,Tuesday,upper,,,15lb Kettle Bell Swins,Push,Shoulders,15.0,Forearms,As many rounds as possible (AMRAP) - in 45 minutes
+10,01-12-2021,Tuesday,upper,,,1 Arm balanced pushups,Push,Chest,12.0,Shoulders,As many rounds as possible (AMRAP) - in 45 minutes
+11,01-12-2021,Tuesday,upper,,,Dumbell Fly,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+12,01-12-2021,Tuesday,upper,,,Slide Over PushUps,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+13,01-12-2021,Tuesday,upper,,,Chin Ups,Pull,Back,10.0,Bicep,As many rounds as possible (AMRAP) - in 45 minutes
+14,01-12-2021,Tuesday,upper,,,Side Tri Rise,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 45 minutes
+15,01-12-2021,Tuesday,upper,,,Push ups,Push,Chest,25.0,Bicep,As many rounds as possible (AMRAP) - in 45 minutes
+16,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,1 legged deadlifts,Deadlift,,40,,As many rounds as possible (AMRAP) - in 30 minutes
+17,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,High Box Jumps,Squat and Lunge,Quad,40,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+18,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,Low Box Jumps,Squat and Lunge,Quad,40,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+19,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,Super skaters,Lunge,,40,,As many rounds as possible (AMRAP) - in 30 minutes
+20,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,25lb Deadlift,Deadlift,Hamstring,40,,As many rounds as possible (AMRAP) - in 30 minutes
+21,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,1 legged weighted lunges,Lunge,,40,,As many rounds as possible (AMRAP) - in 30 minutes
+22,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,Air Squats,Squat,,40,,As many rounds as possible (AMRAP) - in 30 minutes
+23,01-13-2021,Wednesday,yoga,P90x3 Ab Ripper - 15 mins,,Wall balls,Squat,,40,,As many rounds as possible (AMRAP) - in 30 minutes
+24,01-14-2021,Thursday,upper,,,Prison Cell Push Up,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+25,01-14-2021,Thursday,upper,,,Military Pushups,Push,Chest,15.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+26,01-14-2021,Thursday,upper,,,20 lb Seated back flys,Pull,Back,15.0,Shoulders,As many rounds as possible (AMRAP) - in 45 minutes
+27,01-14-2021,Thursday,upper,,,Wide Fly Pushups,Push,Chest,30.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+28,01-14-2021,Thursday,upper,,,Slow Mo Throw,Push,Shoulders,10.0,Back,As many rounds as possible (AMRAP) - in 45 minutes
+29,01-14-2021,Thursday,upper,,,in/out bicep curls,Pull,Bicep,16.0,Shoulders,As many rounds as possible (AMRAP) - in 45 minutes
+30,01-14-2021,Thursday,upper,,,Dumbell Fly,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+31,01-14-2021,Thursday,upper,,,Chair Dips,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 45 minutes
+32,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,1 legged deadlifts,Deadlift,,15.0,,As many rounds as possible (AMRAP) - in 30 minutes
+33,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Lunges,Lunge,,30.0,,As many rounds as possible (AMRAP) - in 30 minutes
+34,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Weighted Walking Lunges,Lunge,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+35,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Medium Box Jumps,Squat and Lunge,Quad,20.0,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+36,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Low Box Jumps,Squat and Lunge,Quad,30.0,Calf,As many rounds as possible (AMRAP) - in 30 minutes
+37,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,20 lbs Calf Raises,Squat and Lunge,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+38,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Mary Katherines,Lunge,,20.0,,As many rounds as possible (AMRAP) - in 30 minutes
+39,01-15-2021,Friday,lower,P90x3 Ab Ripper - 15 mins,,Air Squats,Squat,,30.0,,As many rounds as possible (AMRAP) - in 30 minutes
+40,01-16-2021,Saturday,upper,,,Push ups,Push,Chest,25.0,Bicep,As many rounds as possible (AMRAP) - in 45 minutes
+41,01-16-2021,Saturday,upper,,,Side Tri Rise,Push,Triceps,15.0,Chest,As many rounds as possible (AMRAP) - in 45 minutes
+42,01-16-2021,Saturday,upper,,,Chin Ups,Pull,Back,10.0,Bicep,As many rounds as possible (AMRAP) - in 45 minutes
+43,01-16-2021,Saturday,upper,,,Slide Over PushUps,Push,Chest,12.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+44,01-16-2021,Saturday,upper,,,Pull ups,Pull,Back,10.0,Triceps,As many rounds as possible (AMRAP) - in 45 minutes
+45,01-16-2021,Saturday,upper,,,25lb Kettle Bell Swings,Push,Shoulders,8.0,Forearms,As many rounds as possible (AMRAP) - in 45 minutes
+46,01-16-2021,Saturday,upper,,,in/out bicep curls,Pull,Bicep,16.0,Shoulders,As many rounds as possible (AMRAP) - in 45 minutes
+47,01-16-2021,Saturday,upper,,,Lawnmowers,Pull,Back,15.0,Bicep,As many rounds as possible (AMRAP) - in 45 minutes

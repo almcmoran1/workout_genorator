@@ -115,14 +115,14 @@ def set_days(inputs):
 			do_abs = None
 			date, dayofweek = get_day(day,inputs)
 			if (day % 2) == 0:
-				workout_type = 'upper'
+				workout_type = 'lower'
 				if ab_workouts>0:
 					ab_workouts +-1
 					do_abs = "P90x3 Ab Ripper - 15 mins"
 				else:
 					do_abs = None
 			else:
-				workout_type = 'lower'
+				workout_type = 'upper'
 			workouts[day] = {'date_str':date.strftime('%m-%d-%Y'), 'day_of_week':dayofweek, 'workout_type':workout_type, 'do_abs':do_abs}
 	print(workouts.keys())
 	inputs['workouts'] = pd.DataFrame.from_dict(workouts, orient='index')
